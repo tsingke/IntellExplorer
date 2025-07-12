@@ -5,7 +5,7 @@
 <p align="center">
 <strong> 氢客探道：聚焦智能计算、优化与学习，探索前沿，赋能未来！ </strong>
   
-<strong>IntellExplore: Focusing on intelligent computing, optimization, and learning — exploring the frontier and empowering the future!</strong>
+<strong>IntellExplore: Focusing on intelligent computing, optimization, and learning—exploring the frontier and empowering the future!</strong>
 </p>
 
 ## 氢客探道简介
