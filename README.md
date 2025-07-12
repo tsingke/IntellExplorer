@@ -1,6 +1,12 @@
 # 氢客探道（IntellExplorer）
-氢客探道：聚焦智能计算、优化与学习，探索前沿，赋能未来！
+
 <img width="1200" height="308" alt="氢客探道壁纸" src="https://github.com/user-attachments/assets/0cc857f7-b791-4a33-a25a-c442f5505210" />
+
+<p align="center">
+<strong> 氢客探道：聚焦智能计算、优化与学习，探索前沿，赋能未来！ </strong>
+  
+<strong>IntellExplore: Focusing on intelligent computing, optimization, and learning — exploring the frontier and empowering the future!</strong>
+</p>
 
 ## 氢客探道简介
 
